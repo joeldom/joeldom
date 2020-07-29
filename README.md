@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I'm Joel! 👋
+
+[banner](https://pbs.twimg.com/profile_banners/15350228/1578844438/1080x360)
+
+I am a software developer with a focus on the UI/x Front-end. I love visualizing data and organizing content with typography. Working from conceptual prototypes to interaction and organization. I can't think of anything else at this exact moment but will be abck to update!
 
 <!--
 **joeldom/joeldom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
