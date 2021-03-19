@@ -1,8 +1,8 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQFJskAojFY9Gg/profile-displaybackgroundimage-shrink_350_1400/0/1616189408432?e=1621468800&v=beta&t=lVnZIEV2YEuqjcy-dHcDWzGdFkB1VV6cYpuh_JvgR7g">
 
-### Hi I'm Joel! 👋
+### Hi!
 
-I am a software developer with a focus on the UI/x Front-end. I love visualizing data and organizing content with typography. Working from conceptual prototypes to interaction and organization. I can't think of anything else at this exact moment but will be abck to update!
+I am a software developer with a focus on the UI/x Front-end. I love visualizing data and organizing content alongside beautiful typography. Working from conceptual prototypes and I design systems with impactful experiences. 
 
 <!--
 **joeldom/joeldom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
