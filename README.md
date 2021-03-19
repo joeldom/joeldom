@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/joeldom/joeldom/master/pixel-blinds-collapse-fabric-lattice-sharpe-qn5j2df5-Recovered-02.png">
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQFJskAojFY9Gg/profile-displaybackgroundimage-shrink_350_1400/0/1616189408432?e=1621468800&v=beta&t=lVnZIEV2YEuqjcy-dHcDWzGdFkB1VV6cYpuh_JvgR7g">
 
 ### Hi I'm Joel! 👋
 
