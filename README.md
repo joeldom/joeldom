@@ -2,7 +2,7 @@
 
 ### Hi!
 
-I am a software developer with a focus on the UI/x Front-end. I love visualizing data and organizing content alongside beautiful typography. Working from conceptual prototypes and I design systems with impactful experiences. 
+I am a software developer with a focus on the UI/x Front-end design. I love visualizing data & organizing content to add context and clarity with beautiful colors and typography. 
 
 <!--
 **joeldom/joeldom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
