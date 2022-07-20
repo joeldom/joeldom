@@ -18,6 +18,32 @@ https://joeldom.github.io/style-guide/
 
 **joeldom/joeldom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Tools I Use
+
+General
+
+    Firefox as primary browser
+    Fantastical for calendars
+    Slack & Discord for VC chat
+
+Design
+
+    Figma for design and prototyping
+    Photoshop for image processing & editing
+    Lightroom or NoMacs for batch image processing
+
+Development
+
+    Atom & VSCode for coding or writing
+    GitKraken for version control
+    
+Video
+
+    OBS for recording
+    VLC for viewing and testing
+    After Effects for editing
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
