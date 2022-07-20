@@ -1,4 +1,4 @@
-<img src="[https://pbs.twimg.com/profile_banners/15350228/1616189543/1500x500](https://github.com/joeldom/asset/blob/main/twitter-header.png?raw=true)">
+<img src="[https://raw.githubusercontent.com/joeldom/asset/main/twitter-header.png]">
 
 ### Hi!
 
