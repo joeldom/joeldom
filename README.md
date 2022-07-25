@@ -63,5 +63,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... branding or UI
 - 🤔 I’m looking for help with ... RDE (rapid design environments) angular frameworks
 - 💬 Ask me about ... color systems, type, content and data organization
-- 📫 How to reach me: ... @joeldombek on titter
-- 😄 Pronouns: ... he/him
+- 📫 How to reach me: ... <a href="https://twitter.com/joeldombek" target="_blank">@joeldombek</a> on titter
+
