@@ -4,7 +4,9 @@
 
 ### Hello!
 
-I am Joel, a software developer with a focus on the UI/x Front-end design. In my recent past Ifocused on Human Centered Design principles while creating app and systems. I love visualizing data & organizing content to add context and clarity with beautiful colors and typography. 
+I am Joel, a software developer with a focus on the UI/x Front-end design. In my recent past I focused on Human Centered Design principles while creating app and systems designs. I love visualizing data & organizing content to add context and clarity with beautiful colors and typography. I have a passion for pixel and color accurracy along with a post-modern geometric aesthetic. 
+
+I've worked in both corporate and private design teams and try to bring a simple and honest viewpoint when tackling design problems. I aim to have those around me feel part of the process and elevate attitudes when projects get complex and there are tons of details to consider. 
 
 <!--
 https://www.linkedin.com/in/joel-dombek-6b056828/
@@ -55,3 +57,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ... my personal site and suplimental assets as well as some freelance design.
+- 🌱 I’m currently learning ... python and data structures / ingestion as well as java for generative designs.
+- 👯 I’m looking to collaborate on ... branding or UI
+- 🤔 I’m looking for help with ... RDE (rapid design environments) angular frameworks
+- 💬 Ask me about ... color systems, type, content and data organization
+- 📫 How to reach me: ... @joeldombek on titter
+- 😄 Pronouns: ... he/him
