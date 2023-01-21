@@ -63,5 +63,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... branding or UI
 - 🤔 I’m looking for help with ... motion grahpics and video editing, angular, typescript
 - 💬 Ask me about ... color systems, type, content and data organization
-- 📫 How to reach me: ... <a href="https://twitter.com/joeldombek" target="_blank">@joeldombek</a> on titter
+- 📫 How to reach me: ... <a href="https://twitter.com/joeldombek" target="_blank">@joeldombek</a> on  twitter
 
