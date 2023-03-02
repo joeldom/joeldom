@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ... my personal site and suplimental assets as well as some freelance design.
-- 🌱 I’m currently learning ... python and data structures / ingestion as well as java for generative designs.
-- 👯 I’m looking to collaborate on ... branding or UI
-- 🤔 I’m looking for help with ... motion grahpics and video editing, angular, typescript
-- 💬 Ask me about ... color systems, type, content and data organization
+- 🌱 I’m currently learning ... python for data structures & ingestion as well as java for generative designs.
+- 👯 I’m looking to collaborate on ... branding or UI, assets for YouTube & Twitch
+- 🤔 I’m looking for help with ... sound mixing, motion grahpics and video editing, angular, typescript
+- 💬 Ask me about ... color systems, type, .scss, content and data organization
 - 📫 How to reach me: ... <a href="https://twitter.com/joeldombek" target="_blank">@joeldombek</a> on  twitter
 
