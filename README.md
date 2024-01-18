@@ -8,7 +8,7 @@ I am Joel, a software developer with a focus on the UI/x Front-end design. In my
 
 I've worked in both corporate and private design teams and try to bring a simple and honest viewpoint when tackling design problems. I aim to have those around me feel part of the process and elevate attitudes when projects get complex and there are tons of details to consider. 
 
-## What I've done lately 
+### What I've done lately 
 
 I recently contributed to developing a component library at BNY Mellon, improving user/client interaction with account processing and data features in the client services applications.
 
@@ -72,6 +72,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+What I'm doing now...
 
 - 🔭 I’m currently working on ... my personal site and suplimental assets as well as some freelance design.
 - 🌱 I’m currently learning ... python for data structures & ingestion as well as java for generative designs.
