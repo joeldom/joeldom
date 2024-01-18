@@ -4,7 +4,7 @@
 
 ### Hello!
 
-I am Joel, a software developer with a focus on the UI/x Front-end design. In my recent past I focused on Human Centered Design principles to help create apps and systems. I love visualizing data & organizing content to add context and clarity with beautiful colors and typography. I have a passion for pixel and color accurracy along with a post-modern geometric aesthetic. 
+I am Joel, a UX designer & software developer with a focus on the UI/x Front-end design. In my recent past I focused on Human Centered Design principles to help create apps and systems. I love visualizing data & organizing content to add context and clarity with beautiful colors and typography. I have a passion for pixel and color accurracy along with a post-modern geometric aesthetic. 
 
 I've worked in both corporate and private design teams and try to bring a simple and honest viewpoint when tackling design problems. I aim to have those around me feel part of the process and elevate attitudes when projects get complex and there are tons of details to consider. 
 
