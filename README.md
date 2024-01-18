@@ -1,12 +1,39 @@
-<a href="http://joeldom.github.io/redesign/sandbox/" target="_blank">
-  <img class="aligncenter" alt="Joel Dombek Design 2022" src="https://raw.githubusercontent.com/joeldom/asset/main/twitter-header.png" width="847" height="309" />
+🌐 Explored front-end frameworks for enhanced client experience.
+
+💬 Utilized conversational UI patterns to align with user/client mindset.
+
+📊 Crafted meaningful chart options for user/client benefit.
+
+🔄 Enhanced user experience through testing and feedback iterations.🌐 Explored front-end frameworks for enhanced client experience.
+
+💬 Utilized conversational UI patterns to align with user/client mindset.
+
+📊 Crafted meaningful chart options for user/client benefit.
+
+🔄 Enhanced user experience through testing and feedback iterations.<a href="http://joeldom.github.io/redesign/sandbox/" target="_blank">
+  <img class="aligncenter" alt="Joel Dombek Design 2022" src="https://raw.githubusercontent.com/joeldom/asset/main/twitter-header.png" width="847" height="90" />
 </a>
 
 ### Hello!
 
-I am Joel, a software developer with a focus on the UI/x Front-end design. In my recent past I focused on Human Centered Design principles while creating app and systems designs. I love visualizing data & organizing content to add context and clarity with beautiful colors and typography. I have a passion for pixel and color accurracy along with a post-modern geometric aesthetic. 
+I am Joel, a software developer with a focus on the UI/x Front-end design. In my recent past I focused on Human Centered Design principles to help create apps and systems. I love visualizing data & organizing content to add context and clarity with beautiful colors and typography. I have a passion for pixel and color accurracy along with a post-modern geometric aesthetic. 
 
 I've worked in both corporate and private design teams and try to bring a simple and honest viewpoint when tackling design problems. I aim to have those around me feel part of the process and elevate attitudes when projects get complex and there are tons of details to consider. 
+
+## What I've done lately 
+
+I recently contributed to developing a component library at BNY Mellon, improving user/client interaction with account processing and data features in the client services applications.
+
+Where I...
+
+🌐 Explored front-end frameworks for enhanced client experience.
+p
+💬 Utilized conversational UI patterns to align with user/client mindset.
+
+📊 Crafted meaningful chart options for user/client benefit.
+
+🔄 Enhanced user experience through testing and feedback iterations.
+
 
 <!--
 https://www.linkedin.com/in/joel-dombek-6b056828/
