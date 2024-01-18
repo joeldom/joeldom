@@ -1,16 +1,4 @@
-🌐 Explored front-end frameworks for enhanced client experience.
-
-💬 Utilized conversational UI patterns to align with user/client mindset.
-
-📊 Crafted meaningful chart options for user/client benefit.
-
-🔄 Enhanced user experience through testing and feedback iterations.🌐 Explored front-end frameworks for enhanced client experience.
-
-💬 Utilized conversational UI patterns to align with user/client mindset.
-
-📊 Crafted meaningful chart options for user/client benefit.
-
-🔄 Enhanced user experience through testing and feedback iterations.<a href="http://joeldom.github.io/redesign/sandbox/" target="_blank">
+<a href="http://joeldom.github.io/redesign/sandbox/" target="_blank">
   <img class="aligncenter" alt="Joel Dombek Design 2022" src="https://raw.githubusercontent.com/joeldom/asset/main/twitter-header.png" width="847" height="90" />
 </a>
 
