@@ -8,14 +8,16 @@ I am Joel, a UX designer & software developer with a focus on the UI/x Front-end
 
 I've worked in both corporate and private design teams and try to bring a simple and honest viewpoint when tackling design problems. I aim to have those around me feel part of the process and elevate attitudes when projects get complex and there are tons of details to consider. 
 
-### What I've done lately 
+### What I'm doing
 
+
+### What I've done lately 
 I recently contributed to developing a component library at BNY Mellon, improving user/client interaction with account processing and data features in the client services applications.
 
 Where I...
 
 🌐 Explored front-end frameworks for enhanced client experience.
-p
+
 💬 Utilized conversational UI patterns to align with user/client mindset.
 
 📊 Crafted meaningful chart options for user/client benefit.
@@ -73,12 +75,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-What I'm doing now...
+### What I'm doing now...
 
-- 🔭 I’m currently working on ... my personal site and suplimental assets as well as some freelance design.
-- 🌱 I’m currently learning ... python for data structures & ingestion as well as java for generative designs.
-- 👯 I’m looking to collaborate on ... branding or UI, assets for YouTube & Twitch
-- 🤔 I’m looking for help with ... sound mixing, motion grahpics and video editing, angular, typescript
+- 🔭 I’m currently working on ... <a href="https://joeldom.github.io/redesign/" target="_blank">my site</a> + suplimental assets as well as some freelance design.
+- 🌱 I’m currently learning ... <a href="https://joeldom.github.io/redesign/sandbox" target="_blank">Video/SVG animation</a>, Python + API data structures, as well as Nextjs, Vue, more Nodejs.
+- 👯 I’m looking to collaborate on ... branding or UI, assets for <a href="https://www.youtube.com/@JoelDombek/" target="_blank">YouTube</a> & <a href="https://www.twitch.tv/joeldombek" target="_blank">Twitch</a>
+- 🤔 I’m looking for help with ... sound mixing, motion grahpics & video editing, docker, typescript
 - 💬 Ask me about ... color systems, type, .scss, content and data organization
 - 📫 How to reach me: ... <a href="https://twitter.com/joeldombek" target="_blank">@joeldombek</a> on  twitter
+
+  more to come...
 
