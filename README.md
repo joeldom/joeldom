@@ -8,9 +8,6 @@ I am Joel, a UX designer & software developer with a focus on the UI/x Front-end
 
 I've worked in both corporate and private design teams and try to bring a simple and honest viewpoint when tackling design problems. I aim to have those around me feel part of the process and elevate attitudes when projects get complex and there are tons of details to consider. 
 
-### What I'm doing
-
-
 ### What I've done lately 
 I recently contributed to developing a component library at BNY Mellon, improving user/client interaction with account processing and data features in the client services applications.
 
