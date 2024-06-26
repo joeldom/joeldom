@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... branding or UI, assets for <a href="https://www.youtube.com/@JoelDombek/" target="_blank">YouTube</a> & <a href="https://www.twitch.tv/joeldombek" target="_blank">Twitch</a>
 - 🤔 I’m looking for help with ... sound mixing, motion grahpics & video editing, docker, typescript
 - 💬 Ask me about ... color systems, type, .scss, content and data organization
-- 📫 How to reach me: ... <a href="https://twitter.com/joeldombek" target="_blank">@joeldombek</a> on  twitter
+- 📫 How to reach me: ... <a href="https://www.linkedin.com/in/joel-dombek-6b056828/" target="_blank">Linkedin</a> or <a href="https://twitter.com/joeldombek" target="_blank">@joeldombek</a>
 
   more to come...
 
