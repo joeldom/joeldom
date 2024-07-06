@@ -74,7 +74,8 @@ Here are some ideas to get you started:
 
 ### What I'm doing now...
 
-- 🔭 I’m currently working on ... <a href="https://joeldom.github.io/redesign/" target="_blank">my site</a> + suplimental assets as well as some freelance design.
+- 🔭 I’m currently working on ... <a href="https://joeldom.github.io/redesign/" target="_blank">my site</a> + [content](https://github.com/joeldom/redesign/blob/gh-pages/about/content.md) & [assets](https://github.com/joeldom/asset), as well as freelance.
+- :godmode: Check out my... [Style Guide](https://joeldom.github.io/style-guide/) that is one of the living documents that shows off the theme.
 - 🌱 I’m currently learning ... <a href="https://joeldom.github.io/redesign/sandbox" target="_blank">Video/SVG animation</a>, Python + API data structures, as well as Nextjs, Vue, more Nodejs.
 - 👯 I’m looking to collaborate on ... branding or UI, assets for <a href="https://www.youtube.com/@JoelDombek/" target="_blank">YouTube</a> & <a href="https://www.twitch.tv/joeldombek" target="_blank">Twitch</a>
 - 🤔 I’m looking for help with ... sound mixing, motion grahpics & video editing, docker, typescript
