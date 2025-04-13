@@ -83,5 +83,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... <a href="https://www.linkedin.com/in/joel-dombek-6b056828/" target="_blank">Linkedin</a> or <a href="https://twitter.com/joeldombek" target="_blank">@joeldombek</a>
 
   more to come...
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?joeldom=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+[![Joel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joeldom&theme=dracula)](https://github.com/joeldom/github-readme-activity-graph)
