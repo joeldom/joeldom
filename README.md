@@ -84,4 +84,4 @@ Here are some ideas to get you started:
 
   more to come...
   
-[![Joel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joeldom&theme=dracula)](https://github.com/joeldom/github-readme-activity-graph)
+[![Joel's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joeldom&theme=dracula)](https://github.com/joeldom/github-readme-activity-graph)
