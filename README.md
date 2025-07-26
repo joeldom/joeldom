@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 
 ### What I'm doing now...
 
+- Started making [this](https://x.com/ecco_exo) to build on the [X API v2](https://docs.x.com/fundamentals/authentication/guides/v2-authentication-mapping) and [make an app](https://developer.x.com/en/portal/projects/1948798860660260864/apps) that leverages AI UX and DevOPs into content marketing
 - 🔭 I’m currently working on ... <a href="https://joeldom.github.io/redesign/" target="_blank">my site</a> + [content](https://github.com/joeldom/redesign/blob/gh-pages/about/content.md) & [assets](https://github.com/joeldom/asset), as well as freelance.
 - :godmode: Check out my... [Style Guide](https://joeldom.github.io/style-guide/) that is one of the living documents that shows off the theme.
 - 🌱 I’m currently learning ... <a href="https://joeldom.github.io/redesign/sandbox" target="_blank">Video/SVG animation</a>, Python + API data structures, as well as Nextjs, Vue, more Nodejs.
