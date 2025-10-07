@@ -84,5 +84,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... <a href="https://www.linkedin.com/in/joel-dombek-6b056828/" target="_blank">Linkedin</a> or <a href="https://twitter.com/joeldombek" target="_blank">@joeldombek</a>
 
   more to come...
+
+  ## Content Map
+
+- Port > [joeldombek.com](http://www.joeldombek.com)
+- [joeldom.github.com/redesign](http://www.joeldom.github.com/redesign) `repo` `page`
+- [joeldom.github.com/resume](http://www.joeldom.github.com/resume) `repo` `page`
+- [joeldom.github.com/redesign/sandbox](http://www.joeldom.github.com/redesign/sandbox) `temp`
+- [joeldom.github.com/work/writing](https://chatgpt.com/share/6800e003-3fe8-800b-8e18-66c83498ee0d) `gpt` `claude`
+- [joeldom.github.com/asset](http://www.joeldom.github.com/asset) `repo` `api`
   
 [![Joel's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joeldom&theme=dracula)](https://github.com/joeldom/github-readme-activity-graph)
