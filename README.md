@@ -92,6 +92,6 @@ Here are some ideas to get you started:
 - [joeldom.github.com/resume](http://www.joeldom.github.com/resume) `repo` `page`
 - [joeldom.github.com/redesign/sandbox](http://www.joeldom.github.com/redesign/sandbox) `temp`
 - [joeldom.github.com/work/writing](https://chatgpt.com/share/6800e003-3fe8-800b-8e18-66c83498ee0d) `gpt` `claude`
-- [joeldom.github.com/asset](http://www.joeldom.github.com/asset) `repo` `api`
+- [joeldom.github.com/asset](http://www.joeldom.github.com/asset) `repo` `api` `library`
   
 [![Joel's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joeldom&theme=dracula)](https://github.com/joeldom/github-readme-activity-graph)
