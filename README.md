@@ -89,9 +89,9 @@ Here are some ideas to get you started:
 
 - Port > [joeldombek.com](https://www.joeldombek.com)
 - [joeldom.github.io/redesign](https://joeldom.github.io/redesign/) `repo` `page`
-- [joeldom.github.io/resume](https://www.joeldom.github.io/redesign) `repo` `page`
+- [joeldom.github.io/resume](https://joeldom.github.io/resume) `repo` `page`
 - [joeldom.github.io/redesign/sandbox](https://joeldom.github.io/redesign/sandbox/) `temp`
 - [joeldom.github.io/work/writing](https://chatgpt.com/share/6800e003-3fe8-800b-8e18-66c83498ee0d) `gpt` `claude`
-- [joeldom.github.io/asset](http://www.joeldom.github.com/asset) `repo` `api` `library`
+- [joeldom.github.io/asset](https://github.com/joeldom/asset) `repo` `api` `library`
   
 [![Joel's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joeldom&theme=dracula)](https://github.com/joeldom/github-readme-activity-graph)
