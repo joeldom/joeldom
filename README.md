@@ -88,7 +88,7 @@ Here are some ideas to get you started:
   ## Content Map
 
 - Port > [joeldombek.com](https://www.joeldombek.com)
-- [joeldom.github.io/redesign](https://www.joeldom.github.io/redesign) `repo` `page`
+- [joeldom.github.io/redesign](https://joeldom.github.io/redesign/) `repo` `page`
 - [joeldom.github.io/resume](https://www.joeldom.github.io/redesign) `repo` `page`
 - [joeldom.github.io/redesign/sandbox](https://joeldom.github.io/redesign/sandbox/) `temp`
 - [joeldom.github.io/work/writing](https://chatgpt.com/share/6800e003-3fe8-800b-8e18-66c83498ee0d) `gpt` `claude`
