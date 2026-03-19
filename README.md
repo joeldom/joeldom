@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 
 ### What I'm doing now...
 
+- Testing a [new video player](https://joeldom.github.io/redesign/sandbox/uxbg/v7/) as the hero section of my site using a great [Gundam Edit](https://joeldom.github.io/redesign/sandbox/uxbg/gundam-hottoto.mp4).
 - New [branding](https://github.com/joeldom/asset/issues/11) for app design with Vue.js + Figma + ChatGPT/Claude using SASS to label components with themes
 - Started making [this](https://x.com/ecco_exo) to build on the [X API v2](https://docs.x.com/fundamentals/authentication/guides/v2-authentication-mapping) and [make an app](https://developer.x.com/en/portal/projects/1948798860660260864/apps) that leverages AI UX and DevOPs into content marketing
 - 🔭 I’m currently working on ... <a href="https://joeldom.github.io/redesign/" target="_blank">my site</a> + [content](https://github.com/joeldom/redesign/blob/gh-pages/about/content.md) & [assets](https://github.com/joeldom/asset), as well as freelance.
