@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - Interests
 - Inpiration
+- Refferences
 -->
 
 ### What I'm doing now...
