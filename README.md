@@ -112,7 +112,7 @@ Here are some ideas to get you started:
   more to come...
 <!--
 - Dried Bouquet Assemblage - Girl With the Dragon Tattoo framed dried flowers
-- Street Portrait Photography - Baleciaga currated portature showing each persons Übermensch 
+- Street Portrait Photography - Baleciaga currated portature showing each persons Übermensch [Harry Potter by Balenciaga 2026](https://youtu.be/gtnt84CDP-s)
 - Hi-level concept project list
 -->
   ## Links
