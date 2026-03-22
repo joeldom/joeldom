@@ -58,6 +58,8 @@ Video
     OBS for recording
     VLC for viewing and testing
     After Effects for editing
+    Da Vinci Resolve
+    Capcut
 
 
 Here are some ideas to get you started:
