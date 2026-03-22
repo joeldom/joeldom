@@ -111,8 +111,9 @@ Here are some ideas to get you started:
 
   more to come...
 <!--
-- Dried Bouquet Assemblage 
-- Street Portrait Photography
+- Dried Bouquet Assemblage - Girl With the Dragon Tattoo framed dried flowers
+- Street Portrait Photography - Baleciaga currated portature showing each persons Übermensch 
+- Hi-level concept project list
 -->
   ## Links
 
