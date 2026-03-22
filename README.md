@@ -63,6 +63,15 @@ Video
     Da Vinci Resolve
     Capcut
 
+AI
+
+    Grok
+    ChatGPT
+    Claude
+    Gemini
+    Def not Copilot = Slopit
+    Deepseek
+    
 
 Here are some ideas to get you started:
 
