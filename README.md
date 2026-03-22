@@ -31,6 +31,7 @@ http://joeldom.github.io/
 http://joeldom.github.io/redesign/
 https://joeldom.github.io/resume/
 https://joeldom.github.io/style-guide/
+http://joeldom.github.io/redesign/sandbox
 
 **joeldom/joeldom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
