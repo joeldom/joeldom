@@ -79,6 +79,7 @@ Writing
     **Recurring Nightmare** - Beth investigates the life and death of her father and what led him into a downward spiral to find more than she ever dreampt of
     **The Door** - Narrator goes to about their day fullfilled not realizing it was the last normal day of their life as a door to another dimension was opened 
     **Dream Ladder** - MC goes into their lucid dreams and goes deeper and deeper into thoughts and experiences to find something else hiding at the bottom
+    
 
 Here are some ideas to get you started:
 
@@ -109,7 +110,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... <a href="https://www.linkedin.com/in/joel-dombek-6b056828/" target="_blank">Linkedin</a> or <a href="https://twitter.com/joeldombek" target="_blank">@joeldombek</a>
 
   more to come...
-
+<!--
+- Dried Bouquet Assemblage 
+- Street Portrait Photography
+-->
   ## Links
 
 - Port > [joeldombek.com](https://www.joeldombek.com)
