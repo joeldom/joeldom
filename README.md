@@ -48,6 +48,7 @@ Design
     Figma for design and prototyping
     Photoshop for image processing & editing
     Lightroom or NoMacs for batch image processing
+    Illustrator (not anyore)
 
 Development
 
