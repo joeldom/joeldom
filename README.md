@@ -52,7 +52,7 @@ Design
 
 Development
 
-    Cursor for coding & agent coop
+    Cursor / VSCode for coding & agent coop
     Atom & VSCode for coding or writing
     GitKraken for version control
     
