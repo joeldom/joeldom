@@ -79,6 +79,7 @@ Writing
     **Recurring Nightmare** - Beth investigates the life and death of her father and what led him into a downward spiral to find more than she ever dreampt of
     **The Door** - Narrator goes to about their day fullfilled not realizing it was the last normal day of their life as a door to another dimension was opened 
     **Dream Ladder** - MC goes into their lucid dreams and goes deeper and deeper into thoughts and experiences to find something else hiding at the bottom
+    **Futures Past** - 
     
 
 Here are some ideas to get you started:
@@ -96,6 +97,8 @@ Here are some ideas to get you started:
   - Resident Evil
   - 
 - Refferences
+- Colaberators
+
 -->
 
 ### What I'm doing now...
