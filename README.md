@@ -96,6 +96,7 @@ Here are some ideas to get you started:
 - Inpiration
   - Resident Evil
   - Metal Gear Solid
+  - Ninja Gaiden
 - Refferences
 - Colaberators
 
