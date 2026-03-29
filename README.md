@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 - Interests
 - Inpiration
   - Resident Evil
-  - 
+  - Metal Gear Solid
 - Refferences
 - Colaberators
 
