@@ -95,6 +95,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - Interests
+  - Swiss Type
+  - H. R. Geiger
 - Inpiration
   - Sony Playstation
     - PS1 + PS1 20th Anniversary
@@ -106,6 +108,7 @@ Here are some ideas to get you started:
     - UI & Lore / History designs
   - Final Fantasy
     -FFXV - Noctis & Luna. Night Sky Prince. World of Darkness. https://youtu.be/bGKS0q7wl08 [] Etro Godess of Sleep/Dreams/Death. Love after Death. Love & Death
+    
 - Refferences
   - House of Leaves
   - Sphere
