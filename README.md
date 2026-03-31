@@ -111,6 +111,8 @@ Here are some ideas to get you started:
   - Sphere
   - HEALTH RAT: WARS, R-TYPE
   - Marilyn Manson - Mechanical Animals - Coma White
+  - XBOW - Pen Testing "Dark Mode" theme
+  - X / Twitter - Grok - Dark Mode - Chat Prompt
 - Colaberators
 
 -->
