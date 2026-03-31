@@ -66,12 +66,12 @@ Video
 
 AI
 
-    Grok
-    ChatGPT
-    Claude
-    Gemini
+    Grok - best for quick answers
+    ChatGPT - best for writing
+    Claude - best for code
+    Gemini - code validation
     Def not Copilot = Slopit
-    Deepseek
+    Deepseek - after token burn
 
 Writing
 
