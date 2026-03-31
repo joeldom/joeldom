@@ -97,6 +97,7 @@ Here are some ideas to get you started:
 - Interests
 - Inpiration
   - Resident Evil
+    - Requiem - Grace in puzzle building
   - Metal Gear Solid
   - Ninja Gaiden
   - Final Fantasy
