@@ -99,6 +99,7 @@ Here are some ideas to get you started:
   - Resident Evil
     - Requiem - Grace in puzzle building. Color
   - Metal Gear Solid
+    - Menus  & Group Symbols
   - Ninja Gaiden
   - Final Fantasy
     -FFXV - Noctis & Luna. Night Sky Prince. World of Darkness. https://youtu.be/bGKS0q7wl08 [] Etro Godess of Sleep/Dreams/Death. Love after Death. Love & Death
