@@ -96,6 +96,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - Interests
 - Inpiration
+  - Sony Playstation
+    - PS1 + PS1 20th Anniversary
   - Resident Evil
     - Requiem - Grace in puzzle building. Color
   - Metal Gear Solid
@@ -107,7 +109,8 @@ Here are some ideas to get you started:
 - Refferences
   - House of Leaves
   - Sphere
-  - HEALTH RAT WARS, R-TYPE
+  - HEALTH RAT: WARS, R-TYPE
+  - Marilyn Manson - Mechanical Animals - Coma White
 - Colaberators
 
 -->
