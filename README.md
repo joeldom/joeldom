@@ -109,6 +109,12 @@ Here are some ideas to get you started:
   - Final Fantasy
     -FFXV - Noctis & Luna. Night Sky Prince. World of Darkness. https://youtu.be/bGKS0q7wl08 [] Etro Godess of Sleep/Dreams/Death. Love after Death. Love & Death
     
+- Hero spot visuals
+  - iceberg 
+  - ocean waves
+  - oil rig
+  - f35 jet
+  - gundam
 - Refferences
   - House of Leaves
   - Sphere
