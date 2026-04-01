@@ -151,7 +151,7 @@ Here are some ideas to get you started:
 -->
   ## Links
 
-- Port > [joeldombek.com](https://www.joeldombek.com)
+- Port > [joeldombek.com](https://www.joeldombek.com) `domain`
 - [joeldom.github.io/redesign](https://joeldom.github.io/redesign/) `repo` `page`
 - [joeldom.github.io/resume](https://joeldom.github.io/resume) `repo` `page`
 - [joeldom.github.io/redesign/sandbox](https://joeldom.github.io/redesign/sandbox/) `temp`
