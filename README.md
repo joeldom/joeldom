@@ -126,7 +126,9 @@ Here are some ideas to get you started:
   
 - Colaberators
   - tbd
-
+- Shot Plans
+ - Ethen Honda - Cemetary - Garage
+ - Marchelle GTI -Banksville (passing shot)(from distance to close)
 -->
 
 ### What I'm doing now...
