@@ -100,6 +100,7 @@ Here are some ideas to get you started:
   - Swiss Type
   - H. R. Geiger
 - Inpiration
+  - The Biblical Horrors We Ignore - [YouTube](https://youtu.be/Ntyy06Qd2VM)
   - Sony Playstation
     - PS1 + PS1 20th Anniversary
   - Resident Evil
