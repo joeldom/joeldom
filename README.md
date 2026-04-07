@@ -104,6 +104,7 @@ Here are some ideas to get you started:
   - Sony Playstation
     - PS1 + PS1 20th Anniversary
   - Resident Evil
+    - RE1 OG & RE - [In Defense of the Orignal](https://youtu.be/XGDGv9xmrZ0)
     - Requiem - Grace in puzzle building. Color
   - Metal Gear Solid
     - Menus  & Group Symbols
