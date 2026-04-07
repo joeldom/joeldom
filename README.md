@@ -77,7 +77,7 @@ AI
 
 Writing
 
-    **Echoes From Beyond** - Joel & Satya explore a shared dream fissure to a reality of the neo-patheon of entities (Echoes From Beyond)[https://github.com/joeldom/asset/blob/main/writing/echoes_of_eternity.md]
+    **Echoes From Beyond** - Joel & Satya explore a shared dream fissure to a reality of the neo-patheon of entities (Echoes From Beyond)[https://github.com/joeldom/asset/blob/main/writing/echoes_of_eternity.md] Char hit with a vibration that shakes their being and shows them time and existance from outside of themselves 
     **Recurring Nightmare** - Beth investigates the life and death of her father and what led him into a downward spiral to find more than she ever dreampt of
     **The Door** - Narrator goes to about their day fullfilled not realizing it was the last normal day of their life as a door to another dimension was opened 
     **Dream Ladder** - MC goes into their lucid dreams and goes deeper and deeper into thoughts and experiences to find something else hiding at the bottom
