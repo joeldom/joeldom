@@ -111,6 +111,7 @@ Here are some ideas to get you started:
     - PS1 + PS1 20th Anniversary
   - Resident Evil
     - RE1 OG & RE - [In Defense of the Orignal](https://youtu.be/XGDGv9xmrZ0)
+    - RE3 BIOHAZARD: Final Escape (Seemless + HD)
     - Requiem - Grace in puzzle building. Color
   - Tekken
     - T2 T3 T7 T8
