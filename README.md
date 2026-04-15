@@ -104,7 +104,7 @@ Here are some ideas to get you started:
   - NEO-GEO - King of Fighters
   - SEGA
     - Master System
-    - Genesis - Ecco
+    - Genesis - Ecco, Eternal Champions, X-Men 2: Clone Wars <img src:"https://upload.wikimedia.org/wikipedia/en/a/aa/X-Men_2_Clone_Wars_cover.jpg?_=20081113111846"/>
     - Saturn - Panzer Dragoon
     - Dreamcast - Sonic Adventure, Crazy Taxi
   - Sony SONY Playstation
