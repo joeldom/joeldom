@@ -1,4 +1,4 @@
-<!--v2.4.12.0023 -->
+<!--v2.4.14.0001 -->
 
 <a href="http://joeldom.github.io/redesign/sandbox/" target="_blank">
   <img class="aligncenter" alt="Joel Dombek Design 2022" src="https://raw.githubusercontent.com/joeldom/asset/main/twitter-header.png" width="847" height="120" />
@@ -106,8 +106,11 @@ Here are some ideas to get you started:
   - Resident Evil
     - RE1 OG & RE - [In Defense of the Orignal](https://youtu.be/XGDGv9xmrZ0)
     - Requiem - Grace in puzzle building. Color
+  - Tekken
+    - T2 T3 T7 T8
   - Metal Gear Solid
     - Menus  & Group Symbols
+    - MGS2 2000s aesthetic, philosophy, humor, personality, design, 
   - Ninja Gaiden
     - UI & Lore / History designs
   - Final Fantasy
