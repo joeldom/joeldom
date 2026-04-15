@@ -101,7 +101,13 @@ Here are some ideas to get you started:
   - H. R. Geiger
 - Inpiration
   - The Biblical Horrors We Ignore - [YouTube](https://youtu.be/Ntyy06Qd2VM)
-  - Sony Playstation
+  - NEO-GEO - King of Fighters
+  - SEGA
+    - Master System
+    - Genesis - Ecco
+    - Saturn - Panzer Dragoon
+    - Dreamcast - Sonic Adventure, Crazy Taxi
+  - Sony SONY Playstation
     - PS1 + PS1 20th Anniversary
   - Resident Evil
     - RE1 OG & RE - [In Defense of the Orignal](https://youtu.be/XGDGv9xmrZ0)
@@ -110,8 +116,9 @@ Here are some ideas to get you started:
     - T2 T3 T7 T8
   - Metal Gear Solid
     - Menus  & Group Symbols
-    - MGS2 2000s aesthetic, philosophy, humor, personality, design, 
-  - Ninja Gaiden
+    - MGS2: 2000s aesthetic, philosophy, humor, personality, design
+    - MGS4: Proto-Future, PMC
+  - Ninja Gaiden 1 (XBOX) & 2 BLACK (Remaster)
     - UI & Lore / History designs
   - Final Fantasy
     -FFXV - Noctis & Luna. Night Sky Prince. World of Darkness. https://youtu.be/bGKS0q7wl08 [] Etro Godess of Sleep/Dreams/Death. Love after Death. Love & Death
@@ -122,6 +129,7 @@ Here are some ideas to get you started:
   - oil rig
   - f35 jet
   - gundam
+  - HEALTH covers
 - Refferences
   - House of Leaves
   - Sphere
