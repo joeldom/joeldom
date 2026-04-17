@@ -180,5 +180,6 @@ Here are some ideas to get you started:
 - [IDE](https://www.online-ide.com/)
 - [Reclip](https://x.com/cocktailpeanut/status/2044881598118875628?s=200) [Download](https://github.com/krynsky/reclip-pinokio)
 - [Scrapling - Scraper](https://github.com/D4Vinci/Scrapling)
+- [Neko - Browser](https://github.com/m1k1o/neko)
   
 [![Joel's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joeldom&theme=dracula)](https://github.com/joeldom/github-readme-activity-graph)
