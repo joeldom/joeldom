@@ -162,6 +162,17 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... color systems, type, .scss, content and data organization
 - 📫 How to reach me: ... <a href="https://www.linkedin.com/in/joel-dombek-6b056828/" target="_blank">Linkedin</a> or <a href="https://twitter.com/joeldombek" target="_blank">@joeldombek</a>
 
+<!--
+# Hero Video Storyboard 0001
+ - abstract, frenetric edits
+ - [HEALTH SONG - BURN THE CANDLES](https://open.spotify.com/track/008XFP2RlbYymbD3oS7Z7f?si=5edaf8065b5d4476)
+ - cells into noise into shots of the road flying past.
+ - road moving faster and faster seemingling to the pace of [HEALTH - VIBE COP](https://open.spotify.com/track/5VpU7RLnmjjG3tulGJsg2H?si=3975e064affd40b0)
+ - embers into smoke
+ - waves into sand
+ - moving through the air with rain and clouds forming in a storm you are heading into
+ - [...]
+-->
   more to come...
 <!--
 - landing page ref - [Photo/Profile pic with text/type](https://www.dennissnellenberg.com/)
