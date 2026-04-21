@@ -150,7 +150,7 @@ Here are some ideas to get you started:
 
 ### What I'm doing now...
 
-- Final stages of a new [Viewer](https://joeldom.github.io/redesign/sandbox/viewer/v6/) with a few [features missing](https://joeldom.github.io/redesign/sandbox/viewer/v6/viewer-v5.js)
+- Final stages of a new [Viewer](https://joeldom.github.io/redesign/sandbox/viewer/v6/) with a few [features missing](https://joeldom.github.io/redesign/sandbox/viewer/v6/viewer-v5.js) like collections, scrollTo -> Next project/collection/set with conditional nav and counts.
 - Testing a [new video player](https://joeldom.github.io/redesign/sandbox/uxbg/v8/) as the hero section of my site using a great [Gundam Edit](https://joeldom.github.io/redesign/sandbox/uxbg/gundam-hottoto.mp4).
 - New [branding](https://github.com/joeldom/asset/issues/11) for app design with Vue.js + Figma + ChatGPT/Claude using SASS to label components with themes
 - Started making [this](https://x.com/ecco_exo) to build on the [X API v2](https://docs.x.com/fundamentals/authentication/guides/v2-authentication-mapping) and [make an app](https://developer.x.com/en/portal/projects/1948798860660260864/apps) that leverages AI UX and DevOPs into content marketing
