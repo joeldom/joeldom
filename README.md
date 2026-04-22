@@ -1,4 +1,4 @@
-<!--v2.4.22.0027 -->
+<!--v2.4.22.0024 -->
 
 <a href="http://joeldom.github.io/redesign/sandbox/" target="_blank">
   <img class="aligncenter" alt="Joel Dombek Design 2022" src="https://raw.githubusercontent.com/joeldom/asset/main/twitter-header.png" width="847" height="120" />
