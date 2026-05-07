@@ -1,5 +1,5 @@
 <!--v2.5.07.1-->
-<!--v2.5.07.A: I regret I haven not posted or commited much lately. i do not feel well. I am very tired. I am very lonely. I force smiles through pain. I dont know what is happening-->
+<!--v2.5.07.A: I regret I haven not posted or commited much lately. i do not feel well. I am very tired. I am very lonely. I force smiles through pain. I dont know what is happening. I wish mmore things made me happy. Everything hurts. I have so many bruises and injuries. I dont want to sleep. Because that means I need to break my body down over time for money and I feel like I dont have much of me left...-->
 
 <a href="http://joeldom.github.io/redesign/sandbox/" target="_blank">
   <img class="aligncenter" alt="Joel Dombek Design 2022" src="https://raw.githubusercontent.com/joeldom/asset/main/twitter-header.png" width="847" height="120" />
