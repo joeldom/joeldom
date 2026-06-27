@@ -1,5 +1,10 @@
-<!--v2.6.14.7-->
-<!--v2.5.07.A: I regret I haven not posted or commited much lately. i do not feel well. I am very tired. I am very lonely. I force smiles through pain. I dont know what is happening. I wish mmore things made me happy. Everything hurts. I have so many bruises and injuries. I dont want to sleep. Because that means I need to break my body down over time for money and I feel like I dont have much of me left... I find it hard to engage with the things I was exited to build once they get to a certain state of completion...-->
+<!--v2.6.26.1-->
+<!--v2.5.07.A: I regret I haven not posted or commited much lately. i do not feel well. I am very tired. I am very lonely. I force smiles through pain. I dont know what is happening. I wish mmore things made me happy. Everything hurts. I have so many bruises and injuries. I dont want to sleep. Because that means I need to break my body down over time for money and I feel like I dont have much of me left... I find it hard to engage with the things I was exited to build once they get to a certain state of completion...
+
+v2.6.26.11 A LIFE DEVOID OF ART WILL HAVE THE MIND EAT ITSELF
+A MIND WITH NO ART FOR FOOD WILL EAT ITSELF
+
+-->
 
 <a href="http://joeldom.github.io/redesign/sandbox/" target="_blank">
   <img class="aligncenter" alt="Joel Dombek Design 2022" src="https://raw.githubusercontent.com/joeldom/asset/main/twitter-header.png" width="847" height="120" />
