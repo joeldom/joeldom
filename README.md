@@ -1,4 +1,24 @@
 <!--v2.6.26.1-->
+<!--
+        _ _______        _______ _
+       /_/_______/\-----/\_______\_\
+      / /\    _  \ \---/ /  _    /\ \
+     / /  \  \_\  \ \-/ /  /_/  /  \ \
+    /_/ /\ \_______\/-\/_______/ /\ \_\
+   /\ \ \/ /  _    /\-/\   _   \ \/ / /\
+  /\ \ \  /  /_/  / /-\ \  \_\  \  / / /\
+ /  \ \_\/_______/ /---\ \_______\/_/ /  \
+/ /\ \/\_\_______\/-----\/_______/_/\/ /\ \
+\ \/ /\/_/_______/\-----/\_______\_\/\ \/ /
+ \  / / /\    _  \ \---/ /  _    /\ \ \  /
+  \/ / /  \  \_\  \ \-/ /  /_/  /  \ \ \/
+   \/_/ /\ \_______\/-\/_______/ /\ \_\/
+    \ \ \/ /  _    /\-/\   _   \ \/ / /
+     \ \  /  /_/  / /-\ \  \_\  \  / /
+      \_\/_______/ /---\ \_______\/_/
+       \_\_______\/-----\/_______/_/ JOELDOMBEK © 2026
+
+-->
 <!--v2.5.07.A: I regret I haven not posted or commited much lately. i do not feel well. I am very tired. I am very lonely. I force smiles through pain. I dont know what is happening. I wish mmore things made me happy. Everything hurts. I have so many bruises and injuries. I dont want to sleep. Because that means I need to break my body down over time for money and I feel like I dont have much of me left... I find it hard to engage with the things I was exited to build once they get to a certain state of completion...
 
 v2.6.26.11 A LIFE DEVOID OF ART WILL HAVE THE MIND EAT ITSELF
