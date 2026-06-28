@@ -128,6 +128,11 @@ Writing
     **Futures Past** - 
 
     (Concepts list)[https://github.com/joeldom/asset/blob/main/writing/Concepts.md]
+
+    **Proposed Ending**
+    Joel and Satya come to find they have been chosen as God's chosen archetypes to play through lives and the thrust into a life's ending journey that sees beyond it's own existence to ask if it could, would it make the right decsions.
+    [Happy Path] See beyond their cosmic moral and psyuchological triumph to see the world through new eyes and all of its set backs and struggles
+    [Happy Path] Return home to through an after glow of exaustion drunkenly find themselves back in the slice of time of their lives with the love and and oness of understanding that they can and will make the right choices in the puruit of happiness.
     
 
 Here are some ideas to get you started:
