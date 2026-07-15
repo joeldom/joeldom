@@ -20,6 +20,11 @@
       \_\/_______/ /---\ \_______\/_/
        \_\_______\/-----\/_______/_/ JOELDOMBEK © 2026
 
+
+Period Era Format
+Old Era [μ]-εγλ YYYY - [μ]-εγλ 1976
+Up to year 2000
+New Era [ν]-εγλ YYYY - [ν]-εγλ 0007
 -->
 <!--v2.5.07.A: I regret I haven not posted or commited much lately. i do not feel well. I am very tired. I am very lonely. I force smiles through pain. I dont know what is happening. I wish mmore things made me happy. Everything hurts. I have so many bruises and injuries. I dont want to sleep. Because that means I need to break my body down over time for money and I feel like I dont have much of me left... I find it hard to engage with the things I was exited to build once they get to a certain state of completion...
 
